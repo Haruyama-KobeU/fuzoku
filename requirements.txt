@@ -49,3 +49,4 @@ pandas>=2
 matplotlib>=3
 py4macro
 japanize-matplotlib-jlite
+jupyterlab-language-pack-ja-JP
