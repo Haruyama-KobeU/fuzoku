@@ -45,4 +45,7 @@ plotly>=5,<6
 bqplot
 
 # fuzoku
+pandas>=2
+matplotlib>=3
 py4macro
+japanize-matplotlib-jlite
