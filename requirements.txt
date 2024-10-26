@@ -14,3 +14,4 @@ py4macro
 japanize-matplotlib-jlite
 jupyterlab-language-pack-ja-JP
 otter-grader==5.7.1
+pyyaml<7.0.0,>=6.0.2
